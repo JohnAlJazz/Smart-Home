@@ -1,0 +1,8 @@
+#ifndef AGENT_CONTROLLER_ENUM_HPP
+#define AGENT_CONTROLLER_ENUM_HPP
+
+enum AgentController {
+	HVAC_1_A_1
+};
+
+#endif /* AGENT_CONTROLLER_ENUM_HPP */

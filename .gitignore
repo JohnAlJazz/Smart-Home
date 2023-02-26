@@ -1,0 +1,43 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#other
+utest
+tests/simple_net/client/utest
+tests/simple_net/server/utest
+inc/inl/abstract_sensors_agent_inl.hxx
+inc/abstract_agent_controller.hpp
+inc/abstract_agent_controller.hpp
+inc/abstract_sensor_agent.hpp
+src/controllers/abstract_agent_controller.cpp
+node_modules

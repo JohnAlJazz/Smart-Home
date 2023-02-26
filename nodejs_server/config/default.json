@@ -1,0 +1,7 @@
+{
+    "port" : "8081",
+    "mongoDb": {
+        "host": "localhost",
+        "dbName": "logger"
+    }
+}
