@@ -12,7 +12,7 @@ loggers, and to give the user the opportunity to monitor the requests and sort t
 
 ## some of the features and technologies used:
 
-* Multi threaded server app written in c++
+* Multi threaded server app written in C++
 * TCP networking and multiplexing mechanisms(epoll/select)
 * Threads-safe data structures
 * Two data bases => sql and mongo db
