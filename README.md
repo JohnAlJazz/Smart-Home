@@ -5,18 +5,18 @@
 ![alt text](https://t3.ftcdn.net/jpg/01/62/71/72/240_F_162717288_H9gde7vwbfrChJLwImFz5j9QeMfPoRuv.jpg)
 
 This project simulates a smart home. It includes sensors
-which send event requests over tcp network using protocol, agents drivers which translate the
+which send event requests over TCP, agents drivers which translate the
 request, create a new event and send it to the controllers.
 Beside the server application, there is an online logger app UI written in order to show the
 loggers, and to give the user the opportunity to monitor the requests and sort them by priority.
 
-## some features and technologies we are proud of:
+## some of the features and technologies used:
 
-* multi threaded server app written in c++
-* tcp networking and an epoll monitoring descriptors
-* threads safe data structures
-* two data bases => sql and mongo db
-* web technology stacks based on React & Node.Js
+* Multi threaded server app written in c++
+* TCP networking and multiplexing mechanisms(epoll/select)
+* Threads-safe data structures
+* Two data bases => sql and mongo db
+* Web technology stacks based on React & Node.Js
 
 # Getting Started
 
