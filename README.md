@@ -13,9 +13,9 @@ loggers, and to give the user the opportunity to monitor the requests and sort t
 ## Some of the features and technologies used:
 
 * Multi threaded server app written in C++
-* TCP networking and multiplexing mechanisms(epoll/select)
+* TCP networking and multiplexing mechanisms (epoll/select)
 * Threads-safe data structures
-* Two data bases => sql and mongo db
+* Two data bases => sql & mongo db
 * Web technology stacks based on React & Node.Js
 * Senesors simulated in both C++ & python
 
